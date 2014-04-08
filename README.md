@@ -4,9 +4,9 @@ ProjectosaurusBase
 A Base project
 
 
-##Todo
+#Todo
 
-#Add Prebuilt packages using Bower
+##Add Prebuilt packages using Bower
 
 - Bootstrap
 - Foundation
@@ -14,8 +14,11 @@ A Base project
 
 
 
-#Add default layouts
+##Add default layouts
 
 - Wordpress
 - Flat HTML site
 
+
+
+##Add css/scss frameworks
