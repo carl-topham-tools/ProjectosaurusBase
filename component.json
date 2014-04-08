@@ -1,0 +1,8 @@
+{
+    "name": "ProjectosaurusBase",
+    "version": "0.0.1",
+    "main": "./test.js",
+    "dependencies": {
+        "jquery": "latest"
+    }
+}
